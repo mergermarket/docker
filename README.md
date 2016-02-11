@@ -1,2 +1,2 @@
 # docker
-Docker images used commonly. Most images will be pushed to Docker Hub.
+Commonly used Docker images. Most of these will be pushed to Docker Hub.
